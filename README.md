@@ -23,7 +23,7 @@
         <td>Maths</td>
         <td>English</td>
         <td>Chemistry</td>
-        <td rowspan="6">L<br>U<br>N<br>C<br>H</td>
+        <td rowspan="6"><center>L<br>U<br>N<br>C<br>H</center></td>
         <td colspan="3">Lab</td>
         <td>Physics</td>
       </tr>
