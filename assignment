@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Aircampus</title>
+  </head>
+  <body>
+    <ul>
+      <li><b>Wild Animals</b></li>
+      <ul>
+        <li>Lion</li>
+        <li>Tiger</li>
+        <li>Bear</li>
+        <li>Elephant</li>
+        <li>Monkeys</li>
+      </ul>
+    </ul>
+    <ol>
+      <li><b>Juicy Fruits</b></li>
+      <ol>
+        <li>Mango</li>
+        <li>Banana</li>
+        <li>Orange</li>
+        <li>Kiwi</li>
+        <li>Grapes</li>
+      </ol>
+      <li ><b>Colors</b></li>
+      <ol type="a">
+        <li>White</li>
+        <ul><li>Dove</li></ul>
+        <li>Green</li>
+        <ul><li>Tree</li></ul>
+        <li>Blue</li>
+        <ul><li>Sky</li></ul>
+        <li>Yellow</li>
+        <ul><li>Turmeric</li></ul>
+        <li>Red</li>
+        <ul><li>Rose</li></ul>
+      </ol>
+      <li>Name</li>
+      <ol type="I">
+        <li>Deepika Kumari</li>
+        <ul><li>Archery</li><ul><li>Ranchi</li></ul></ul>
+         <li>M.S Dhoni</li>
+        <ul><li>Cricketer</li><ul><li>Ranchi</li></ul></ul>
+      </ol>
+    </ol>
+    <h3>Students Name in Ordered</h3>
+    <ul>
+      <li><b>First Student</b></li>
+      <ol type="i">
+        <li><b>First Name</b></li>
+        <ul><li>Bhawan</li></ul>
+        <li><b>Second Name</b></li>
+        <ul><li>Vaishnav</li></ul>
+        <li><b>Full Name</b></li>
+        <ul><li>Bhawan Vaishnab</li></ul>
+      </ol>
+      <li><b>Second Student</b></li>
+      <ol type="i">
+        <li><b>First Name</b></li>
+        <ul><li>Lily</li></ul>
+        <li><b>Second Name</b></li>
+        <ul><li>Sneha</li></ul>
+        <li><b>Last Name</b></li>
+        <ul><li>Lakra</li></ul>
+        <li><b>Full Name</b></li>
+        <ul><li>Lily Sneha Lakra</li></ul>
+      </ol>
+      <li><b>Third Student</b></li>
+      <ol type="i">
+        <li><b>First Name</b></li>
+        <ul><li>Megha</li></ul>
+        <li><b>Second Name</b></li>
+        <ul><li>Jibhakate</li></ul>
+        <li><b>Full Name</b></li>
+        <ul><li>Megha Jibhakate</li></ul>
+      </ol>
+    </ul>
+  </body>
+</html>
